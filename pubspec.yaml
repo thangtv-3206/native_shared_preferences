@@ -40,8 +40,6 @@ flutter:
         pluginClass: NativeSharedPreferencesPlugin
       linux:
         default_package: shared_preferences_linux
-      macos:
-        default_package: shared_preferences_macos
       web:
         default_package: shared_preferences_web
       windows:
